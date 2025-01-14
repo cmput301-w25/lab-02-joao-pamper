@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Joao Pedro Amaral Pereira`
+- **CCID:** `amaralpe`
 
 ## References and Resources
 
